@@ -14,7 +14,7 @@
 
 ## 📌 About Me
 
-👋 Hi! I’m **Daniyale Mohammed**, a *Full-Stack Developer & DevOps Enthusiast* passionate about building scalable web and mobile applications. I love exploring **new technologies** and tackling *challenging problems*.
+👋 Hi! I’m **Fatima zahra eljazouly**, a *Full-Stack Developer & Ai Enthusiast* passionate about building scalable web. I love exploring **new technologies** and tackling *challenging problems*.
 
 💡 *What I Do:*
 - 🖥️ **Backend Development:** Node.js, NestJS, Express, PHP
