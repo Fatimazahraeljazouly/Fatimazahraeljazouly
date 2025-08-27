@@ -1,19 +1,14 @@
-<h1 align="center">Hi there, I'm Fatima Zahra EL JAZOULY 👋</h1>
+<h1 align="center">Hi there, I'm Fatima Zahra EL JAZOOUY 👋</h1>
 <h3 align="center">Computer Engineering Student | AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fatima-zahra-el-jazouly-91114723b/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:eljazoulyfatimazahra5@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+  <a href="https://www.linkedin.com/in/fatima-zahra-el-jazouly-91114723b/" target="_blank">My LinkedIn Profile</a> | <a href="mailto:eljazoulyfatimazahra5@gmail.com">Contact Me via Email</a>
 </p>
 
 ---
 
 <p align="center">
-  I'm a final-year Computer Engineering student passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric software. I don't just build machine learning models; I build the **full-stack applications** that bring them to life.
+  I'm a final-year Computer Engineering student passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric software. I don't just build machine learning models; I build the <strong>full-stack applications</strong> that bring them to life.
 </p>
 
 ### My Core Expertise:
