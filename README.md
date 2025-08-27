@@ -18,11 +18,11 @@
 
 ### My Core Expertise:
 
-🔭 **AI & Machine Learning:** I build and deploy intelligent systems, specializing in Computer Vision and NLP. My toolbox includes **TensorFlow, PyTorch, Scikit-learn, and OpenCV**.
+ **AI & Machine Learning:** I build and deploy intelligent systems, specializing in Computer Vision and NLP. My toolbox includes **TensorFlow, PyTorch, Scikit-learn, and OpenCV**.
 
-💻 **Full-Stack Development:** I engineer robust, end-to-end applications with a strong focus on clean architecture. I'm proficient in both Python frameworks like **Django/Flask** and the Java ecosystem with **Spring Boot**, paired with modern frontends like **React.js**.
+ **Full-Stack Development:** I engineer robust, end-to-end applications with a strong focus on clean architecture. I'm proficient in both Python frameworks like **Django/Flask** and the Java ecosystem with **Spring Boot**, paired with modern frontends like **React.js**.
 
-🚀 **DevOps & Cloud:** I believe in writing code that is built to scale. I have hands-on experience with **Docker** for containerization and a foundational understanding of cloud platforms, backed by my **Oracle Cloud (OCI) certifications**.
+ **DevOps & Cloud:** I believe in writing code that is built to scale. I have hands-on experience with **Docker** for containerization and a foundational understanding of cloud platforms, backed by my **Oracle Cloud (OCI) certifications**.
 
 ---
 
@@ -30,16 +30,16 @@
 
 | Category                 | Technologies                                                                                                                                                             |
 | ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **🤖 AI & Data Science**   | `Python` `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `YOLOv8` `NLP` `Jupyter` `Google Colab`                                                      |
-| **⚙️ Backend**             | `Python (Django, Flask)` `Java (Spring Boot)` `Node.js (Express)` `REST APIs`                                                                                              |
-| **🌐 Frontend**            | `React.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`                                                                                             |
-| **🗃️ Databases**           | `MySQL` `PostgreSQL` `MongoDB` `Oracle` `SQL`                                                                                                                            |
-| **☁️ DevOps & Cloud**      | `Docker` `Git` `GitHub Actions` `Linux` `Oracle Cloud Infrastructure (OCI)`                                                                                                |
-| **🔒 Cybersecurity Tools** | `Nessus` `OpenVAS` `Metasploit` `Snort` `Fail2ban`                                                                                                                         |
+| ** AI & Data Science**   | `Python` `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `YOLOv8` `NLP` `Jupyter` `Google Colab`                                                      |
+| ** Backend**             | `Python (Django, Flask)` `Java (Spring Boot)` `Node.js (Express)` `REST APIs`                                                                                              |
+| ** Frontend**            | `React.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`                                                                                             |
+| ** Databases**           | `MySQL` `PostgreSQL` `MongoDB` `Oracle` `SQL`                                                                                                                            |
+| **DevOps & Cloud**      | `Docker` `Git` `GitHub Actions` `Linux` `Oracle Cloud Infrastructure (OCI)`                                                                                                |
+| ** Cybersecurity Tools** | `Nessus` `OpenVAS` `Metasploit` `Snort` `Fail2ban`                                                                                                                         |
 
 ---
 
-### 🔥 Featured Projects
+###  Featured Projects
 
 Here are some of the projects I'm most proud of. They showcase my ability to handle both complex AI logic and full-stack implementation.
 
