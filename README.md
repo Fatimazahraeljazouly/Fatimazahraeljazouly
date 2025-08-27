@@ -1,64 +1,61 @@
-<h1 align="center">🚀 Welcome to My GitHub!</h1>
+<h1 align="center">Hi there, I'm Fatima Zahra EL JAZOULY 👋</h1>
+<h3 align="center">Computer Engineering Student | AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=reactjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-E0234E?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <a href="https://www.linkedin.com/in/fatima-zahra-el-jazouly-91114723b/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:eljazoulyfatimazahra5@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 📌 About Me
+<p align="center">
+  I'm a final-year Computer Engineering student passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric software. I don't just build machine learning models; I build the **full-stack applications** that bring them to life.
+</p>
 
-👋 Hi! I’m **Fatima zahra eljazouly**, a *Full-Stack Developer & Ai Enthusiast* passionate about building scalable web. I love exploring **new technologies** and tackling *challenging problems*.
+### My Core Expertise:
 
-💡 *What I Do:*
-- 🖥️ **Backend Development:** Node.js, NestJS, Express, PHP
-- 🛠 **Databases:** MySQL, MongoDB, SQLite
-- 🌐 **Web Development:** JavaScript, TypeScript,React.Js, HTML, CSS, Bootstrap,taillwind
-- 🚀 **DevOps & Deployment:** Docker,
-- 🔒 **Security & Networking:** Linux, Virtualization, SPF/DKIM/DMARC verification
+🔭 **AI & Machine Learning:** I build and deploy intelligent systems, specializing in Computer Vision and NLP. My toolbox includes **TensorFlow, PyTorch, Scikit-learn, and OpenCV**.
 
-🎯 *Currently Learning:*
-- Machine Learning 
-- Generative Ai and Deep Learning 
----
+💻 **Full-Stack Development:** I engineer robust, end-to-end applications with a strong focus on clean architecture. I'm proficient in both Python frameworks like **Django/Flask** and the Java ecosystem with **Spring Boot**, paired with modern frontends like **React.js**.
 
-## 🛠 Technologies & Tools
-
-| Languages | Backend | Frontend | DevOps | Databases | Security & Networking |
-|-----------|---------|----------|--------|-----------|---------------------|
-| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=for-the-badge&logo=react&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white) | ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) |  ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) | ![Networking](https://img.shields.io/badge/Networking-007396?style=for-the-badge&logo=networkx&logoColor=white) |
-| ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) | ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) | ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![CI/CD](https://img.shields.io/badge/CI/CD-FF6F00?style=for-the-badge&logo=gitlab&logoColor=white) | ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white) | ![SPF/DKIM/DMARC](https://img.shields.io/badge/SPF/DKIM/DMARC-008000?style=for-the-badge&logo=security&logoColor=white) |
+🚀 **DevOps & Cloud:** I believe in writing code that is built to scale. I have hands-on experience with **Docker** for containerization and a foundational understanding of cloud platforms, backed by my **Oracle Cloud (OCI) certifications**.
 
 ---
 
-## 🔥 Notable Projects
+### 🛠️ My Tech Stack
 
-🔹 **🔎 Email Header Analyzer** (PHP, WordPress Plugin, Security Features)  
-🔹 **📂 Electronic Medical Records System** (PHP, MySQL, JavaScript, Bootstrap)  
-🔹 **🖥️ IT Inventory Management** (GLPI, FusionInventory)  
-🔹 **🚀 SPF/DKIM/DMARC Verification Tool** (PHP, SPFLib, WordPress)  
-
-📌 Check out all my projects on [GitHub](https://github.com/Fatimazahraeljazouly)
+| Category                 | Technologies                                                                                                                                                             |
+| ------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **🤖 AI & Data Science**   | `Python` `TensorFlow` `PyTorch` `Keras` `Scikit-learn` `Pandas` `NumPy` `OpenCV` `YOLOv8` `NLP` `Jupyter` `Google Colab`                                                      |
+| **⚙️ Backend**             | `Python (Django, Flask)` `Java (Spring Boot)` `Node.js (Express)` `REST APIs`                                                                                              |
+| **🌐 Frontend**            | `React.js` `TypeScript` `JavaScript` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`                                                                                             |
+| **🗃️ Databases**           | `MySQL` `PostgreSQL` `MongoDB` `Oracle` `SQL`                                                                                                                            |
+| **☁️ DevOps & Cloud**      | `Docker` `Git` `GitHub Actions` `Linux` `Oracle Cloud Infrastructure (OCI)`                                                                                                |
+| **🔒 Cybersecurity Tools** | `Nessus` `OpenVAS` `Metasploit` `Snort` `Fail2ban`                                                                                                                         |
 
 ---
 
-## 📫 Contact Me
+### 🔥 Featured Projects
 
-📧 **Email:** [eljazoulyfatimazahra5@gmail.com](mailto:eljazoulyfatimazahra5@gmail.com)  
-💼 **LinkedIn:** [linkedin.com/in/eljazoulyl](https://www.linkedin.com/in/fatima-zahra-el-jazouly-91114723b/)  
+Here are some of the projects I'm most proud of. They showcase my ability to handle both complex AI logic and full-stack implementation.
+
+| Project                                         | Description                                                                                                                                                                                                | Key Technologies                                                    |
+| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **🌿 GreenLens: AI Plant Disease Detection**      | A mobile-first application using a **Convolutional Neural Network (CNN)** to diagnose plant diseases from images in real-time.                                                                               | `TensorFlow` `Keras` `Computer Vision` `Python` `Mobile App`          |
+| **📧 Full-Stack Spam Detection System**          | An end-to-end web app that classifies spam messages. I built the **NLP model**, exposed it via a **Flask REST API**, and consumed it with a **React.js** frontend.                                              | `Scikit-learn` `NLP` `Flask` `React.js` `Full-Stack`                  |
+| **🛒 E-commerce Price Comparison App**           | A mobile app with a **microservices architecture** to compare prices. It uses **Spring Boot** for the main API, **Python** for web scraping, and **RabbitMQ** for asynchronous communication.                  | `React Native` `Spring Boot` `Microservices` `RabbitMQ` `MongoDB`     |
+| **🍎 Real-Time Fruit Detection w/ YOLOv8**       | A high-performance system for real-time object detection and classification of fruit from a video stream, demonstrating the practical application of state-of-the-art computer vision models.               | `YOLOv8` `OpenCV` `Python` `Object Detection` `Real-Time`             |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fatimazahraeljazouly&show_icons=true&theme=radical" alt="GitHub Stats" />
+  ... and many more available in my repositories!
 </p>
 
 ---
-
-<p align="center">✨ Developed with passion 🚀</p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fatimazahraeljazouly&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatimazahraeljazouly&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</p>
