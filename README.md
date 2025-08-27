@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  I'm a final-year Computer Engineering student passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric software. I don't just build machine learning models; I build the **full-stack applications** that bring them to life.
+  I'm a final-year Computer Engineering student passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric software. I don't just build machine learning models; I build the <strong>full-stack applications</strong> that bring them to life.
 </p>
 
 ### My Core Expertise:
@@ -43,12 +43,12 @@
 
 Here are some of the projects I'm most proud of. They showcase my ability to handle both complex AI logic and full-stack implementation.
 
-| Project                                         | Description                                                                                                                                                                                                | Key Technologies                                                    |
-| ----------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
-| **🌿 GreenLens: AI Plant Disease Detection**      | A mobile-first application using a **Convolutional Neural Network (CNN)** to diagnose plant diseases from images in real-time.                                                                               | `TensorFlow` `Keras` `Computer Vision` `Python` `Mobile App`          |
-| **📧 Full-Stack Spam Detection System**          | An end-to-end web app that classifies spam messages. I built the **NLP model**, exposed it via a **Flask REST API**, and consumed it with a **React.js** frontend.                                              | `Scikit-learn` `NLP` `Flask` `React.js` `Full-Stack`                  |
-| **🛒 E-commerce Price Comparison App**           | A mobile app with a **microservices architecture** to compare prices. It uses **Spring Boot** for the main API, **Python** for web scraping, and **RabbitMQ** for asynchronous communication.                  | `React Native` `Spring Boot` `Microservices` `RabbitMQ` `MongoDB`     |
-| **🍎 Real-Time Fruit Detection w/ YOLOv8**       | A high-performance system for real-time object detection and classification of fruit from a video stream, demonstrating the practical application of state-of-the-art computer vision models.               | `YOLOv8` `OpenCV` `Python` `Object Detection` `Real-Time`             |
+| Project                                     | Description                                                                                                                                                                                                | Key Technologies                                                    |
+| ------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------- |
+| **GreenLens: AI Plant Disease Detection**   | A mobile-first application using a **Convolutional Neural Network (CNN)** to diagnose plant diseases from images in real-time.                                                                               | `TensorFlow` `Keras` `Computer Vision` `Python` `Mobile App`          |
+| **Full-Stack Spam Detection System**        | An end-to-end web app that classifies spam messages. I built the **NLP model**, exposed it via a **Flask REST API**, and consumed it with a **React.js** frontend.                                              | `Scikit-learn` `NLP` `Flask` `React.js` `Full-Stack`                  |
+| **E-commerce Price Comparison App**         | A mobile app with a **microservices architecture** to compare prices. It uses **Spring Boot** for the main API, **Python** for web scraping, and **RabbitMQ** for asynchronous communication.                  | `React Native` `Spring Boot` `Microservices` `RabbitMQ` `MongoDB`     |
+| **Real-Time Fruit Detection w/ YOLOv8**     | A high-performance system for real-time object detection and classification of fruit from a video stream, demonstrating the practical application of state-of-the-art computer vision models.               | `YOLOv8` `OpenCV` `Python` `Object Detection` `Real-Time`             |
 
 <p align="center">
   ... and many more available in my repositories!
