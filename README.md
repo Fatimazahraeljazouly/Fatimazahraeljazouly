@@ -1,5 +1,5 @@
 <h1 align="center">Hi there, I'm Fatima Zahra EL JAZOULY 👋</h1>
-<h3 align="center">Computer Engineering Student | AI Engineer & Full-Stack Developer</h3>
+<h3 align="center"> AI Engineer & Full-Stack Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/fatima-zahra-el-jazouly-91114723b/" target="_blank">
@@ -13,12 +13,12 @@
 ---
 
 <p align="center">
-  I'm a final-year Computer Engineering student passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric software. I don't just build machine learning models; I build the <strong>full-stack applications</strong> that bring them to life.
+  I'm junior Ai and software engineer passionate about bridging the gap between cutting-edge Artificial Intelligence and practical, user-centric software. I don't just build machine learning models; I build the <strong>full-stack applications</strong> that bring them to life.
 </p>
 
 ### My Core Expertise:
 
- **AI & Machine Learning:** I build and deploy intelligent systems, specializing in Computer Vision and NLP. My toolbox includes **TensorFlow, PyTorch, Scikit-learn, and OpenCV**.
+ **AI & Machine Learning:** I build and deploy intelligent systems, specializing in Computer Vision and NLP. My toolbox includes **LLMa, VLMs, RAG, TensorFlow, PyTorch, Scikit-learn, and OpenCV**.
 
  **Full-Stack Development:** I engineer robust, end-to-end applications with a strong focus on clean architecture. I'm proficient in both Python frameworks like **Django/Flask** and the Java ecosystem with **Spring Boot**, paired with modern frontends like **React.js**.
 
